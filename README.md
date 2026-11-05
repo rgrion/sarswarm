@@ -28,7 +28,7 @@ Na amostra de 11 estudos, não foi identificada uma solução experimentalmente 
 
 A hipótese central do SARSwarm é que a integração de algoritmos de busca, percepção visual e controle de formação poderá viabilizar uma arquitetura cooperativa acessível. A avaliação dessa hipótese depende de experimentos posteriores.
 
-## 3. Experimento 02 — Detecção de pessoas em ambientes florestais
+## 3. Experimento 01 — Detecção de pessoas em ambientes florestais
 
 ### 3.1 Objetivo
 
@@ -217,7 +217,7 @@ Esse fluxo é **conceitual** e não corresponde a um sistema integrado já imple
 
 ## 6. Reprodutibilidade e materiais necessários
 
-Para reproduzir o Experimento 02 com fidelidade, são necessários:
+Para reproduzir o Experimento 01 com fidelidade, são necessários:
 
 - Acesso autorizado ao dataset [`etri/ForestPersons`](https://huggingface.co/datasets/etri/ForestPersons), quando aplicável;
 - Código de seleção e conversão das anotações de COCO para YOLO;
@@ -240,16 +240,6 @@ Para reproduzir o Experimento 02 com fidelidade, são necessários:
 - **XUE, D.; CAI, G.** Formation flight control of multi-UAV system with communication constraints. *Journal of Aerospace Technology and Management*, v. 8, n. 2, 2016. https://doi.org/10.5028/jatm.v8i2.608
 - **KITCHENHAM, B.; CHARTERS, S.** *Guidelines for performing systematic literature reviews in software engineering*. Technical Report EBSE-2007-01, 2007.
 - **PAGE, M. J. et al.** The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. *BMJ*, v. 372, n71, 2021. https://doi.org/10.1136/bmj.n71
-
-## 8. Equipe
-
-**Colégio Militar do Rio de Janeiro (CMRJ)**
-
-**Alunos-pesquisadores:** Rian Costa Vecchioni, Rafael Rocha Leira e Miguel Marques Duarte Alves.
-
-**Orientador:** Alexandre dos Santos Boente.
-
-**Coorientador:** Renan Figueira Grion.
 
 ---
 
